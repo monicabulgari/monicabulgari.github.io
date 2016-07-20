@@ -1,11 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#Mônica Bulgari
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+##Educational Background
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+- Master Student at Linguistics Department of University of Campinas – UNICAMP
+02/2015 – Currently
+- BA in Social Science at University of Campinas- UNICAMP
+12/2013
+- BA in Multimedia Journalism at FACAMP – Campinas
+12/2012
