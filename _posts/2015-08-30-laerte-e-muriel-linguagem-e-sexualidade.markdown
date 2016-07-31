@@ -4,6 +4,7 @@ title: "Laerte e Muriel: Linguagem e Sexualidade"
 date: 2015-08-30 18:00:00
 categories: sexualidade quadrinhos
 ---
+![murie417](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/muriel417.jpg)
 
 _Fui convidada pela produção do SSEX BBOX para falar um pouquinho sobre a pesquisa que desenvolvo no Instituto de Estudos da Linguagem (IEL) da UNICAMP, sobre as tirinhas de Laerte. Selecionei duas tirinhas para dar uma pequena amostra de como realizo a análise._
 
