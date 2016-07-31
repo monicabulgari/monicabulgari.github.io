@@ -7,16 +7,25 @@ html,body {
  */
 .header {
     padding: 50px 20px 40px;
-    background-color: #515865;
+    background-color: #653D74;
 }
 
 .header-container {
-    max-width: 700px;
+    max-width: 900px;
     margin: 0px auto;
 }
 
+.profile-picture {
+  float: left;
+  margin-right: 20px;
+  width: 10%;
+  img {
+    border-radius: 50%;
+  }
+}
+
 .nav {
-	color: #707070;
+	color: #FFF;
 	text-transform: uppercase;
     font-size: 16px;
     font-weight: 600;
@@ -36,7 +45,7 @@ li {
 }
 
 .nav a {
-    color: #959BA6;
+    color: #FFF;
 }
 
 .nav a:link {
@@ -132,7 +141,7 @@ li {
 }
 
 .post-list li a {
-	color: #000;	
+	color: #000;
 }
 
 #line {
@@ -167,7 +176,7 @@ li {
  */
  .category-box {
 	font-weight:bold;
-	font-size: 16px; 	
+	font-size: 16px;
  }
 
 
@@ -176,25 +185,25 @@ li {
  */
 .about {
 	color:#000000;
-	font-family:"Freigh Texts";
+	// font-family:"Freigh Texts";
 }
 
 /**
  * Footer
  */
 .footer {
-    font-size: 11px;
-    text-align: center;
-	color: #666;
+  font-size: 11px;
+  text-align: center;
+  color: #666;
 }
 
 #gotop {
-    position: fixed;
-    right: 20px;
-    bottom: 20px;    
-    padding: 10px 15px;    
-    font-size: 20px;
-    background: #515865;
-    color: white;
-    cursor: pointer;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  padding: 10px 15px;
+  font-size: 20px;
+  background: #653D74;
+  color: white;
+  cursor: pointer;
 }
