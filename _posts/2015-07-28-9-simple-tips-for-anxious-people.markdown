@@ -4,9 +4,6 @@ title: "9 simple Tips for Anxious People to Start Meditating"
 date: 2015-07-28 11:23:32
 categories: meditation anxiety self-awareness
 ---
-
-_Texto inicialmente publicado na [plataforma Medium](https://medium.com/@monicabulgari/10-simple-tips-for-anxious-people-to-start-meditating-written-by-an-anxious-one-e3b416200aad#.33f153xrx)._
-
 ![Bart meditating](https://cdn-images-1.medium.com/max/1600/1*vns_Z-sG5xNfAHeGnFPUiA.gif)
 
 It’s been two months since I’ve been meditating every single day. This wonderful state of mind encouraged me to spread the meditation techniques to all the people arround me. As I always struggle with my anxiety and suttle changes of mental state since I was a child, I never thought meditation could help me the way it has. As an academical-intelectual-scientist-with-no-religion, I always looked at meditation a little bit skeptical and thought of it as dellusions people would do to confuse themselves and run away of their problems. The intensity of being a person who loves drinking, smoking and hard parties made me think that the _zen_ atmosphere would make me lose this feeling of well-being that I loved so much.
@@ -56,3 +53,5 @@ Nowadays basically there are apps for everything. Meditaton apps provide guided 
 So, Good Luck and I hope you really take part on this practice!
 
 ![Haters gonna hate](http://img.thebody.com/thebody/2014/benb_haters.jpg)
+
+_Texto inicialmente publicado na [plataforma Medium](https://medium.com/@monicabulgari/10-simple-tips-for-anxious-people-to-start-meditating-written-by-an-anxious-one-e3b416200aad#.33f153xrx)._
