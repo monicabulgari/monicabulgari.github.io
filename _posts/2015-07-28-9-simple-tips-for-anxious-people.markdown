@@ -4,7 +4,7 @@ title: "9 simple Tips for Anxious People to Start Meditating"
 date: 2015-07-28 11:23:32
 categories: meditation anxiety self-awareness
 ---
-![Bart meditating](https://cdn-images-1.medium.com/max/1600/1*vns_Z-sG5xNfAHeGnFPUiA.gif)
+![Bart meditating](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/bart.gif)
 
 It’s been two months since I’ve been meditating every single day. This wonderful state of mind encouraged me to spread the meditation techniques to all the people arround me. As I always struggle with my anxiety and suttle changes of mental state since I was a child, I never thought meditation could help me the way it has. As an academical-intelectual-scientist-with-no-religion, I always looked at meditation a little bit skeptical and thought of it as dellusions people would do to confuse themselves and run away of their problems. The intensity of being a person who loves drinking, smoking and hard parties made me think that the _zen_ atmosphere would make me lose this feeling of well-being that I loved so much.
 
@@ -30,7 +30,7 @@ Ok, ok. It is surely not easy for us to sit and do nothing for a minute. We are 
 
 ## 5. Don’t try to “think about nothing” ou “just don’t think”
 
-![Simpsons meditating](https://media.giphy.com/media/3oEdvbvpZopRjwenba/giphy.gif)
+![Simpsons meditating](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/simpsonsmeditating.gif)
 
 These are classical mistakes people make when thinking about meditation. The techniques used in the zazen (commom budhist word to refer to the meditation process) are focused to free your mind, body and self-control from your deepest emotional and sharpest thoughts. There are thoughts that could be very harmful to your self-esteem, your productivity and your relationship with people that surround you. Meditation improves your abilities to _deal_ with these thoughts and making them disappear is not the goal here. The skill of handling it with your own thoughts and mind are the goal we are searching for when we meditate.
 
@@ -52,6 +52,6 @@ Nowadays basically there are apps for everything. Meditaton apps provide guided 
 
 So, Good Luck and I hope you really take part on this practice!
 
-![Haters gonna hate](http://img.thebody.com/thebody/2014/benb_haters.jpg)
+![Haters gonna hate](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/hatersgonnahate.jpeg)
 
-_Texto inicialmente publicado na [plataforma Medium](https://medium.com/@monicabulgari/10-simple-tips-for-anxious-people-to-start-meditating-written-by-an-anxious-one-e3b416200aad#.33f153xrx)._
+_Texto originalmente publicado na [plataforma Medium](https://medium.com/@monicabulgari/10-simple-tips-for-anxious-people-to-start-meditating-written-by-an-anxious-one-e3b416200aad#.33f153xrx)._
