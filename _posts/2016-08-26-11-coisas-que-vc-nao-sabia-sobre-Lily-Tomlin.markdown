@@ -9,5 +9,5 @@ categories: feminismo séries
 _Essa mulher é surpreendente_
 
 1. Ela já ganhou um Grammy por um [álbum cômico](https://www.youtube.com/watch?v=A4N2hjJy2oI&list=PLP_l6S5yJapI5MCAxxWLKiMA99ny6Cw9f) que gravou em 1972
-![capa álbum](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/album_recording)
+![capa álbum](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/album_recording.jpg)
 
