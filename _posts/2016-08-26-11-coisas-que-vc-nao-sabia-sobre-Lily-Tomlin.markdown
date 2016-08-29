@@ -29,8 +29,10 @@ Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
 <p></p>
 <p></p>
 4. Além do Grammy, ela já ganhou dois Tony Awards e seis Emmys !
-![biografia](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/emmy.jpg)
+![premiação](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/emmy.jpg)
 <p></p>
 *Mark Davis / Getty Images / Via eonline.com*
 <p></p>
 <p></p>
+5. Ela foi a primeira a mulher a fazer um número solo na Broadway.
+![time](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/timemagazine.jpg)
