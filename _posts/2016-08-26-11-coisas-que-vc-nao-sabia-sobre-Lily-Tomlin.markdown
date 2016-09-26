@@ -14,8 +14,10 @@ _Essa mulher é surpreendente_
 *Bart Solenthaler / Via Flickr: bartsol*
 
 ## 2. Lily é casada com a diretora <a href="https://en.wikipedia.org/wiki/Jane_Wagner">Jane Wagner </a> há 44 anos!
-![janewagner](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily_jane.jpg) 
+![janewagner](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily_jane.jpg)
+<p></p>
 *Lily Tomlin / Via abc7.com*
+<p></p>
 Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
 
 ## 3. Elas até ganharam uma <a href="https://www.amazon.com/dp/1137358238/?tag=buzz0f-20"> biografia </a> por sua influência na cultura estadunidense e suas militâncias LGBT
