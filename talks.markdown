@@ -8,8 +8,9 @@ title: Mônica Bulgari | About me
 <p></p>
 <p> Sometimes I like to give talks about subjects I consider relevant. Here are
   some of the talks I have given: </p>
+  <p></p>
 
-## 09/2016 - "Como lidar com questões de gênero e feminismo nas redes sociais" - Social Media Week SP 2016 - Museu da Imagem e Som, SP *Dealing with gender issues and feminism on Social Media*
+## 09/2016 - "Como lidar com questões de gênero e feminismo nas redes sociais" - Social Media Week SP 2016 - Museu da Imagem e Som, SP (*Dealing with gender issues and feminism on Social Media*)
 
 Fotos: 12-09-2016 - São Paulo - Social Media Week São Paulo, no Museu da Imagem e do Som. Foto: Rafael Neddermeyer/ Getty Images
   ![smw](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw06.jpg)
