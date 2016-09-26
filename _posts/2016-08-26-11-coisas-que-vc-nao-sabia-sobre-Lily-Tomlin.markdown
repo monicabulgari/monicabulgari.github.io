@@ -14,7 +14,7 @@ _Essa mulher é surpreendente_
 *Bart Solenthaler / Via Flickr: bartsol*
 <p></p>
 <p></p>
-2. Lily é casada com a diretora <a href="https://en.wikipedia.org/wiki/Jane_Wagner">Jane Wagner </a> há 44 anos!
+## 2. Lily é casada com a diretora <a href="https://en.wikipedia.org/wiki/Jane_Wagner">Jane Wagner </a> há 44 anos!
 ![janewagner](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily_jane.jpg) 
 <p></p>
 *Lily Tomlin / Via abc7.com*
@@ -22,19 +22,19 @@ _Essa mulher é surpreendente_
 Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
 <p></p>
 <p></p>
-3.  Elas até ganharam uma <a href="https://www.amazon.com/dp/1137358238/?tag=buzz0f-20"> biografia </a> por sua influência na cultura estadunidense e suas militâncias LGBT
+## 3. Elas até ganharam uma <a href="https://www.amazon.com/dp/1137358238/?tag=buzz0f-20"> biografia </a> por sua influência na cultura estadunidense e suas militâncias LGBT
 ![biografia](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/livro.jpg)
 <p></p>
 *Via gender-focus.com*
 <p></p>
 <p></p>
-4. Além do Grammy, ela já ganhou dois Tony Awards e seis Emmys !
+## 4. Além do Grammy, ela já ganhou dois Tony Awards e seis Emmys !
 ![premiação](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/emmy.jpg)
 <p></p>
 *Mark Davis / Getty Images / Via eonline.com*
 <p></p>
 <p></p>
-5. Ela foi a primeira a mulher a fazer um número solo na Broadway.
+## 5. Ela foi a primeira a mulher a fazer um número solo na Broadway.
 ![time](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/timemagazine.jpg)
 <p></p>
 *Via milwaukeepride.org*
@@ -42,7 +42,7 @@ Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
 Nessa <a href="https://www.theguardian.com/culture/2015/nov/22/lily-tomlin-grandma-interview-sexism-ageism-isis"> entrevista </a>, ela diz que a sua sexualidade nunca foi problema, mesmo em meados do século XX. Ela nunca pensou se assumir para o público porque sua mãe era muito conservadora, e ela não queria magoá-la. Além disso, todos que trabalhavam com ela sabiam sobre seu relacionamento com Jane.
 <p></p>
 <p></p>
-6. Gravou um <a href="https://www.youtube.com/watch?v=PmiD-ZwTb5s"> álbum </a> dando uma boa cutucada na indústria de Hollywood
+## 6. Gravou um <a href="https://www.youtube.com/watch?v=PmiD-ZwTb5s"> álbum </a> dando uma boa cutucada na indústria de Hollywood
 ![modernscream](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/modern_scream.jpg)
 <p></p>
 *Lily Tomlin / Via sbillinghurst.wordpress.com*
@@ -53,10 +53,10 @@ Numa das faixas do álbum, uma de suas personagens pergunta:
 <p></p>
 *- Eu vivi com essas mulheres durante toda minha vida, sei como elas agem e falam.*
 <p></p>
-7. Ela se <a href="http://www.lilytomlin.com/wordpress2/lilytomlin/lily-tomlins-characters/"> transforma </a> em muitos personagens
+## 7. Ela se <a href="http://www.lilytomlin.com/wordpress2/lilytomlin/lily-tomlins-characters/"> transforma </a> em muitos personagens
 ![personagens](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/personagens.jpg)
 <p></p>
 *Lily Tomlin / Via lilytomlin.com*
 <p></p>
 <p></p>
-8.Teve um papo bem sacana com a Cher, na década de 1970
+## 8. Teve um papo bem sacana com a Cher, na década de 1970
