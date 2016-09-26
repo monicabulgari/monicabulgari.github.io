@@ -68,7 +68,7 @@ alt="cherandlily" width="240" height="180" border="10" /></a>
 
 e o personagem de Travolta se chama “Strip”. Hãm…
 
-![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lilnariz.jpg)
+![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lilnariz.gif)
 
 Lily, você é incrível!
 
