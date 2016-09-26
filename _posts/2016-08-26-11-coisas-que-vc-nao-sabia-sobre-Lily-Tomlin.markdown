@@ -72,4 +72,4 @@ e o personagem de Travolta se chama “Strip”. Hãm…
 
 Lily, você é incrível!
 
-*Texto originalmente publicado no <a href="https://www.buzzfeed.com/monicabulgari/11-coisas-que-voca-nao-sabia-sobre-lily-tomlin-1x9wm"> Buzzfeed </a> 
+*Texto originalmente publicado no <a href="https://www.buzzfeed.com/monicabulgari/11-coisas-que-voca-nao-sabia-sobre-lily-tomlin-1x9wm"> Buzzfeed </a>*
