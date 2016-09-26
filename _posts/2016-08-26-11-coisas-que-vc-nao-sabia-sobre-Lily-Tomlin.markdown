@@ -4,7 +4,7 @@ title: "11 coisas que você não sabia sobre Lily Tomlin, a Frankie de “Grace 
 date: 2016-08-26 18:00:00
 categories: feminismo séries 
 ---
-![lily](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/lily.jpg)
+![lily](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily.jpg)
 
 _Essa mulher é surpreendente_
 
