@@ -50,4 +50,26 @@ Numa das faixas do álbum, uma de suas personagens pergunta:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=U0Gw9IUmjwM
 " target="_blank"><img src="http://img.youtube.com/vi/U0Gw9IUmjwM/0.jpg" 
 alt="cherandlily" width="240" height="180" border="10" /></a>
+*Rob Thurman / Via YouTube*
 
+## 9. Lily é feminista e ativa na militância LGBT. Aqui, ela foi fotografada pela famosa Annie Leibovitz
+![annie](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/annie.jpg)
+Annie Leibovitz / Via profeminist.tumblr.com
+
+## 10. Já foi par <a href="http://www.imdb.com/title/tt0077942/" > romântico </a> de John Travolta, em 1978
+![travolta](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/john_travolta.jpg)
+
+Eles viveram um (raro) romance entre uma mulher mais velha e um homem mais novo,no filme “Vivendo cada Momento”. O filme, que foi dirigido pela própria esposa de Lily, Jane Wagner, foi um fracasso de bilheteria.
+
+## 11. Sério, peguem essa cena na banheira:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sTh9Bvqhdl8
+" target="_blank"><img src="http://img.youtube.com/vi/sTh9Bvqhdl8/0.jpg" 
+alt="cherandlily" width="240" height="180" border="10" /></a>
+
+e o personagem de Travolta se chama “Strip”. Hãm…
+
+![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/lilnariz.jpg)
+
+Lily, você é incrível!
+
+*Texto originalmente publicado no <a href="https://www.buzzfeed.com/monicabulgari/11-coisas-que-voca-nao-sabia-sobre-lily-tomlin-1x9wm"> Buzzfeed </a> 
