@@ -4,6 +4,7 @@ title: Mônica Bulgari | About me
 ---
 
 
+
 ## Talks
 <p></p>
 <p> Sometimes I like to give talks about subjects I consider relevant. Here are
