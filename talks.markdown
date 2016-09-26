@@ -4,7 +4,6 @@ title: Mônica Bulgari | About me
 ---
 
 
-
 ## Talks
 <p></p>
 <p> Sometimes I like to give talks about subjects I consider relevant. Here are
@@ -13,8 +12,8 @@ title: Mônica Bulgari | About me
 # 09/2016 - "Como lidar com questões de gênero e feminismo nas redes sociais" - Social Media Week SP 2016 - Museu da Imgem e 
      Som, SP (<em> Dealing with gender issues and feminism on Social Media </em>)
         Fotos: 12-09-2016 - São Paulo - Social Media Week São Paulo, no Museu da Imagem e do Som. Foto: Rafael Neddermeyer/ Getty Images
-  <img src="/images/smw05.jpg"/>
-  <p></p>
+  ![smw](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw06.jpg)
+
   
 # 08/2016 - "1ª Mostra Mulheres e Cinema" (<em> 1st Women and Cinema Festival</em>),
   mediação da mesa "Estigmas e libertação: Violência contra a mulher, representação e empoderamento" - São Paulo- SP
