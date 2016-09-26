@@ -53,11 +53,11 @@ alt="cherandlily" width="240" height="180" border="10" /></a>
 *Rob Thurman / Via YouTube*
 
 ## 9. Lily é feminista e ativa na militância LGBT. Aqui, ela foi fotografada pela famosa Annie Leibovitz
-![annie](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/annie.jpg)
+![annie](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/annie.jpg)
 Annie Leibovitz / Via profeminist.tumblr.com
 
 ## 10. Já foi par <a href="http://www.imdb.com/title/tt0077942/" > romântico </a> de John Travolta, em 1978
-![travolta](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/john_travolta.jpg)
+![travolta](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/john_travolta.jpg)
 
 Eles viveram um (raro) romance entre uma mulher mais velha e um homem mais novo,no filme “Vivendo cada Momento”. O filme, que foi dirigido pela própria esposa de Lily, Jane Wagner, foi um fracasso de bilheteria.
 
@@ -68,7 +68,7 @@ alt="cherandlily" width="240" height="180" border="10" /></a>
 
 e o personagem de Travolta se chama “Strip”. Hãm…
 
-![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/images/lilnariz.jpg)
+![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lilnariz.jpg)
 
 Lily, você é incrível!
 
