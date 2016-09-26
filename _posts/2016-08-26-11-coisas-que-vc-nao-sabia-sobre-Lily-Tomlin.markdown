@@ -39,12 +39,11 @@ Nessa <a href="https://www.theguardian.com/culture/2015/nov/22/lily-tomlin-grand
 E principalmente nos atores que tinham receio de interpretar personagens gays.
 Numa das faixas do álbum, uma de suas personagens pergunta:
 *- Como se sentiu ao interpretar uma heterossexual?*
+<p></p>
 *- Eu vivi com essas mulheres durante toda minha vida, sei como elas agem e falam.*
 
 ## 7. Ela se <a href="http://www.lilytomlin.com/wordpress2/lilytomlin/lily-tomlins-characters/"> transforma </a> em muitos personagens
 ![personagens](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/personagens.jpg)
-<p></p>
 *Lily Tomlin / Via lilytomlin.com*
-<p></p>
-<p></p>
+
 ## 8. Teve um papo bem sacana com a Cher, na década de 1970
