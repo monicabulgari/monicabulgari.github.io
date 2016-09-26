@@ -47,3 +47,5 @@ Numa das faixas do álbum, uma de suas personagens pergunta:
 *Lily Tomlin / Via lilytomlin.com*
 
 ## 8. Teve um papo bem sacana com a Cher, na década de 1970
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=U0Gw9IUmjwM">
+</iframe>
