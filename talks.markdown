@@ -32,5 +32,5 @@ title: Mônica Bulgari | About me
     <img src="/images/palestraserranegra.jpg" />
 
 
-</ul>
+
 </div>
