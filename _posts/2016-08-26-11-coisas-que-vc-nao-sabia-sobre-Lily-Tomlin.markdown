@@ -19,7 +19,7 @@ _Essa mulher é surpreendente_
 *Lily Tomlin / Via abc7.com*
 <p></p>
 Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
-
+<p></p>
 ## 3. Elas até ganharam uma <a href="https://www.amazon.com/dp/1137358238/?tag=buzz0f-20"> biografia </a> por sua influência na cultura estadunidense e suas militâncias LGBT
 ![biografia](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/livro.jpg)
 *Via gender-focus.com*
