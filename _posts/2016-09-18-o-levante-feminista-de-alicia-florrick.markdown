@@ -5,7 +5,7 @@ date: 2016-09-18
 categories: series feminismo
 ---
 
-![Alicia_03_home](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_home.jpg)
+![Alicia_03_home](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_home.jpeg)
 
 Nos últimos anos, temos acompanhado um boom na produção e no compartilhamento de conteúdos sobre o feminismo e outras teorias 
 libertárias sobre a questão de gênero. Apesar dessa luta datar de séculos atrás, foi com o advento da internet e suas ferramentas,
