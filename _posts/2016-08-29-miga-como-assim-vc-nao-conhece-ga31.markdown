@@ -73,4 +73,4 @@ As músicas já rolam em algumas baladas
 " target="_blank"><img src="http://img.youtube.com/vi/g-XPuSPoGHc/0.jpg" 
 alt="cherandlily" width="240" height="180" border="10" /></a>
 
-_Texto originalmente postado no [Buzzfeed](https://www.buzzfeed.com/monicabulgari/miga-como-assim-voca-ainda-nao-conhece-ga31-1x9wm)
+_Texto originalmente postado no [Buzzfeed](https://www.buzzfeed.com/monicabulgari/miga-como-assim-voca-ainda-nao-conhece-ga31-1x9wm)_
