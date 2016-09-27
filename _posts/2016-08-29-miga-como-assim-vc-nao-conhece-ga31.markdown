@@ -9,23 +9,23 @@ categories: música feminismo buzzfeed
 
 # Você já conhece o remix “Eu gosto de mulheres”,né?
 
-![Ga3101](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_01.jpg)
+![Ga3101](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_01.gif)
 
 …quando a Paloma Duarte saiu do armário em _A Partilha_ e virou [hit](https://www.youtube.com/watch?v=WGT2Ky9rZN4) sapatômico.
 
 # A autora, que se denomina “GA31” foi além nesse lance de edição e remix e criou um álbum inteiro cheio de preciosidades
 
-![Ga3102](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_02.jpg)
+![Ga3102](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_02.gif)
 
 # … com letras pra fancha nenhuma botá defeito!
 
-![Ga3103](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_03.jpg)
+![Ga3103](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_03.gif)
 
 _Trecho de [“Lésbica Futurista“](https://www.youtube.com/watch?v=-Wns7LMUa5I)_
 
 # Também tem frases categóricas e imagens bem loucas
 
-![Ga3104](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_04.jpg)
+![Ga3104](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_04.gif)
 
 essa raposinha muito louca de [Andrógena](https://www.youtube.com/watch?v=dG2r4iS8EwU)
 
