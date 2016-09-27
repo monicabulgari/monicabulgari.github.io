@@ -17,29 +17,29 @@ _Já começou as Olimpíadas? Mas esse menino é brasileiro? Isso era uma modali
 
 # 2. “Phelps conquista 5 medalhas de ouro!”
 
-![Phoebe 02](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheobe02.gif)
+![Phoebe 02](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe02.gif)
 
 _Agora conte-me uma novidade_
 
 # 3. “Usain Bolt sorri para a câmera durante a prova dos 100m”
 
-![Phoebe 03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheobe03.gif)
+![Phoebe 03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe03.gif)
 
 Cheio de gracinhas.
 
 # 4. “Phoebe, precisamos torcer para a Argentina vencer para nos classificarmos no basquete maculino”
 
-![Phoebe 04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheobe04.gif)
+![Phoebe 04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe04.gif)
 
 _Não vai estar dando_
 
 # 5. “Phoebe, você viu o francês que chorou no pódio por ter sido vaiado?”
 
-![Phoebe 05](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheobe05.gif)
+![Phoebe 05](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe05.gif)
 
 # 6. “Phoebe, a piscina de mergulho está com uma água esverdeada”
 
-![Phoebe 06](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phpebe06.gif)
+![Phoebe 06](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe06.gif)
 
 # 7. “Ginasta quebra perna e halterofilista quebra braço ao vivo”
 
@@ -53,7 +53,7 @@ _Pega um balde pra mim, por favor_
 
 # 9. “Phoebe, a goleira sueca pegou o último pênalti da Cristiane”
 
-![Phoebe 09](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheobe09.gif)
+![Phoebe 09](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe09.gif)
 
 # 10. “Phoebe, Rafaela Silva ganhou ouro para o Brasil no judô!”
 
@@ -61,11 +61,11 @@ _Pega um balde pra mim, por favor_
 
 # 11. “Brasil perde para China no vôlei”
 
-![Phoebe 11](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheoebe11.gif)
+![Phoebe 11](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe11.gif)
 
 # 12. “Juíz tem que implorar silêncio para plateia na natação”
 
-![Phoebe 12](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/pheoebe12.gif)
+![Phoebe 12](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/phoebe12.gif)
 
 # 13. Encerramos a transmissão de hoje, obrigada Phoebe! Algum último comentário?
 
