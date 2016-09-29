@@ -17,7 +17,7 @@ consagrou e ganhou um Emmy em 2000. Entre 2000 e 2009, ela estava fazendo pequen
 e também atuando em filmes como Serpentes a Bordo e Navio Fantasma.
 
 
-![julianna01](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna01.jpeg)
+![julianna01](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna01.jpg)
 
 _Julianna em “Serpentes a bordo”_
 
@@ -31,7 +31,7 @@ Anaconda, que acabou indo para Jennifer Lopez e outro em Uma Mente Brilhante, pa
 ganhou um Oscar por sua performance no filme). É curioso que Marguiles voltaria para a mesma Chicago em The Good Wife, em 
 uma das maiores firmas de advocacia da cidade (e sendo esposa do ex-procurador geral do condado).
 
-![julianna02](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna02.jpeg)
+![julianna02](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna02.jpg)
 
 _Julianna e George Clooney em ER_
 
@@ -41,7 +41,7 @@ decidiu encarar a maternidade de peito aberto. Kieran nasceu logo no início das
 Rhimes, que teve sua terceira filha aos 43 anos, Marguiles teve que enfrentar a turbulência de um grande projeto profissional 
 com a maternidade recente. E obteve sucesso em ambos.
 
-![julianna03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna03.jpeg)
+![julianna03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna03.jpg)
 
 _Julianna e o marido_
 
@@ -51,7 +51,7 @@ sobre sua opinião em relação a crianças. Sobre o empoderamento de mulheres n
 percebendo que as coisas mais interessantes e desafiadoras escritas para elas estão aparecendo agora na TV (…) até cinco anos
 atrás, a TV era feita de protagonistas homens. Eu não diria que atualmente a situação está igual, mas estamos chegando lá”.
 
-![julianna04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna04.jpeg)
+![julianna04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna04.jpg)
 
 Durante The Good Wife, foi acusada de ter uma briga com a atriz que interpretava Kalinda, a Archie Panjabi, na quinta temporada da série. Apesar de não estar claro o que aconteceu, Julianna sempre se posicionou de maneira a interromper as fofocas e rumores. Afinal se houve uma desavença, não era pela mídia que elas iriam resolver, as coisas, né?
 
@@ -59,7 +59,7 @@ Aqui tem uma lista que ela fez, citando dez mulheres que mudaram a vida dela. De
 Christine Baranski, que interpreta a Diane no seriado. Muitas são ativistas e advogadas. Julianna tem muitas advogadas em sua 
 vida. Será que foi isso que a inspirou no papel de Alicia Florrick?
 
-![julianna05](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna05.jpeg)
+![julianna05](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna05.jpg)
 
 _Julianna e Archie Panjabi em cena de The Good Wife_
 
