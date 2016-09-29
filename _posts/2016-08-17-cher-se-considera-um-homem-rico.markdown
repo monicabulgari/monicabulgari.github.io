@@ -39,6 +39,6 @@ Bem, vamos lá:
 
 Sem mais, 
 
-![Cher09](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher08.jpg)
+![Cher08](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher08.jpg)
 
 _Texto originalmente publicado no [Buzzfeed](https://www.buzzfeed.com/monicabulgari/cher-se-considera-um-homem-rico-e-todos-nas-conco-1x9wm)_
