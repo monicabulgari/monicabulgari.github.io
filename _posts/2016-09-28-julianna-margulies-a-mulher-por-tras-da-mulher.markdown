@@ -45,7 +45,7 @@ com a maternidade recente. E obteve sucesso em ambos.
 
 _Julianna e o marido_
 
-Julianna tem uma série de posicionamentos muito legais sobre questões que envolvem feminismo. A vida dela, como é possível 
+Julianna tem uma [série de posicionamentos](http://globalnews.ca/news/2051634/julianna-margulies-on-hollywood-feminism-and-her-unease-with-fame/) muito legais sobre questões que envolvem feminismo. A vida dela, como é possível 
 observar, é cheia de exemplos e posturas empoderadas. Desde gerar um filho com uma idade atípica, ou falar com naturalidade 
 sobre sua opinião em relação a crianças. Sobre o empoderamento de mulheres no cinema e na TV, ela diz: “As mulheres estão 
 percebendo que as coisas mais interessantes e desafiadoras escritas para elas estão aparecendo agora na TV (…) até cinco anos
@@ -53,9 +53,9 @@ atrás, a TV era feita de protagonistas homens. Eu não diria que atualmente a s
 
 ![julianna04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/julianna04.jpg)
 
-Durante The Good Wife, foi acusada de ter uma briga com a atriz que interpretava Kalinda, a Archie Panjabi, na quinta temporada da série. Apesar de não estar claro o que aconteceu, Julianna sempre se posicionou de maneira a interromper as fofocas e rumores. Afinal se houve uma desavença, não era pela mídia que elas iriam resolver, as coisas, né?
+Durante The Good Wife, [foi acusada de ter uma briga com a atriz que interpretava Kalinda](http://www.vogue.com/13357483/the-good-wife-feud-julianna-margulies-archie-panjabi/), a Archie Panjabi, na quinta temporada da série. Apesar de não estar claro o que aconteceu, Julianna sempre se posicionou de maneira a interromper as fofocas e rumores. Afinal se houve uma desavença, não era pela mídia que elas iriam resolver, as coisas, né?
 
-Aqui tem uma lista que ela fez, citando dez mulheres que mudaram a vida dela. Dentre elas, estão Patti Smith, Gloria Steinem e 
+[Aqui](http://www.makers.com/blog/julianna-margulies-10-women-who-have-changed-her-life) tem uma lista que ela fez, citando dez mulheres que mudaram a vida dela. Dentre elas, estão Patti Smith, Gloria Steinem e 
 Christine Baranski, que interpreta a Diane no seriado. Muitas são ativistas e advogadas. Julianna tem muitas advogadas em sua 
 vida. Será que foi isso que a inspirou no papel de Alicia Florrick?
 
@@ -63,7 +63,7 @@ vida. Será que foi isso que a inspirou no papel de Alicia Florrick?
 
 _Julianna e Archie Panjabi em cena de The Good Wife_
 
-Atualmente, Julianna revelou que está produzindo uma mini-série sobre jornalistas mulheres no Vietnam, baseado em uma história 
+Atualmente, Julianna revelou que [está produzindo uma mini-série sobre jornalistas mulheres no Vietnam](http://www.rte.ie/entertainment/2016/0607/793820-margulies-says-good-wife-opened-up-a-door-for-women/), baseado em uma história 
 real. Ela também anda lendo muitos scripts e se sente honrada pelas pessoas confiarem nela como produtora. Porém, quando se 
 trata de voltar para a TV ela ressalta que agora está em um momento de descanso e quer aproveitar o seu filho. Porém, quando 
 o “momento vier”, ela vai voltar, com o papel certo. “Mas sem diálogos jurídicos ou médicos, eu prometo”.
