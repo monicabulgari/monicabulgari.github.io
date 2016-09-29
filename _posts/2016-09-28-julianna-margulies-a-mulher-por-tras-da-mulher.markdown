@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "9Julianna Margulies – a mulher por trás da mulher "
+title: "Julianna Margulies – a mulher por trás da mulher "
 date: 2016-09-28 11:23:32
 categories: feminismo series
 ---
