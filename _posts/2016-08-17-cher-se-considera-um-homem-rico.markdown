@@ -7,7 +7,7 @@ categories: series listas buzzfeed feminismo
 
 ![Cher00](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher00.jpg)
 
-# A Internet está revivendo uma entrevista maravilhosa que a Cher deu para o Jane Pauley Talk Show, em 1996. 
+# A Internet está revivendo uma [entrevista](https://www.youtube.com/watch?v=NvRWYKTHPVg) maravilhosa que a Cher deu para o Jane Pauley Talk Show, em 1996. 
 
 Cher disse coisas maravilhosas
 
@@ -37,3 +37,8 @@ Bem, vamos lá:
 
 ![Cher07](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher07.jpg)
 
+Sem mais, 
+
+![Cher09](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher08.jpg)
+
+_Texto originalmente publicado no [Buzzfeed](https://www.buzzfeed.com/monicabulgari/cher-se-considera-um-homem-rico-e-todos-nas-conco-1x9wm)_
