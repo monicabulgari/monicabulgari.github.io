@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9 simple Tips for Anxious People to Start Meditating"
-date: 2015-07-28 11:23:32
+date: 2016-10-13 11:23:32
 categories: meditation anxiety self-awareness
 ---
 ![Bart meditating](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/bart.gif)
