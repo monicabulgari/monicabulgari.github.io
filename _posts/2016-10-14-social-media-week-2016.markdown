@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Palestra] Social Media Week São Paulo 2016"
-date: 2015-07-28 11:23:32
+date: 2016-10-13 11:23:32
 categories: feminismo palestra socialmedia
 ---
 ![SMW10](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw10.jpg)
