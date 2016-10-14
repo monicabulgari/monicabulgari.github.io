@@ -39,7 +39,8 @@ O feedback foi extremamente positivo. O blog [Insightee](http://insightee.com.br
 
 Também fui recomendada pelo [Blog do Tarcizio Silva](http://tarciziosilva.com.br/blog/falhas-e-sucessos-em-genero-e-feminismo-nas-midias-sociais/):
 
->>_"A jornalista Mônica Bulgari realizou palestra com ótimos cases e sugestões de respostas de esclarecimento em alguns cases de crises recentes relacionadas a gênero e feminismo nas mídias sociais. Recomendo
+>>_"A jornalista Mônica Bulgari realizou palestra com ótimos cases e sugestões de respostas de esclarecimento em alguns cases de crises recentes relacionadas a gênero e feminismo nas mídias sociais. Recomendo."_
+
 Conheci pessoas incríveis e fui incentivada a produzir mais conteúdos nessa temática. Essa experiência me deu algumas
 ideias, que pretendo desenvolver ao longo do ano que vem.
 
