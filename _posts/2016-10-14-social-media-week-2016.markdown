@@ -37,6 +37,9 @@ O feedback foi extremamente positivo. O blog [Insightee](http://insightee.com.br
 
 >>_"Mais do que simplesmente um “guia”, o material da jornalista Mônica Bulgari é uma aula sobre poder de fala, discurso, cultura, gênero e publicidade. É talvez o assunto que mais seja necessário aos cursos e às faculdade de Publicidade e Propaganda e que mais passam batido. É discutir o que matérias das Ciências Sociais vêm discutindo há muito tempo, pensando mídia, poderes hegemônicos, lugar de fala, humor como artefato cultural que reforça representações sociais equivocadas, e muito mais. E ainda recomenda o documentário “O Riso dos Outros”. Uma apresentação mais que necessária, responsável, adaptada ao público do evento, coerente e muito bem explicativa. Recomendo ainda a matéria citada na apresentação, “Machismo é a regra da casa”, que denuncia os absurdos da publicidade brasileira."_
 
+Também fui recomendada pelo [Blog do Tarcizio Silva](http://tarciziosilva.com.br/blog/falhas-e-sucessos-em-genero-e-feminismo-nas-midias-sociais/):
+
+>>_"A jornalista Mônica Bulgari realizou palestra com ótimos cases e sugestões de respostas de esclarecimento em alguns cases de crises recentes relacionadas a gênero e feminismo nas mídias sociais. Recomendo
 Conheci pessoas incríveis e fui incentivada a produzir mais conteúdos nessa temática. Essa experiência me deu algumas
 ideias, que pretendo desenvolver ao longo do ano que vem.
 
