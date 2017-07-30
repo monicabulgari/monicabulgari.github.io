@@ -7,7 +7,7 @@ categories: series listas buzzfeed feminismo
 
 ![Cher00](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher00.jpg)
 
-# A Internet está revivendo uma [entrevista](https://www.youtube.com/watch?v=NvRWYKTHPVg) maravilhosa que a Cher deu para o Jane Pauley Talk Show, em 1996.
+# A Internet está revivendo uma [entrevista](https://www.youtube.com/watch?v=NvRWYKTHPVg) maravilhosa que a Cher deu para o Jane Pauley Talk Show, em 1996. 
 
 Cher disse coisas maravilhosas
 
@@ -37,7 +37,7 @@ Bem, vamos lá:
 
 ![Cher07](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher07.jpg)
 
-Sem mais,
+Sem mais, 
 
 ![Cher08](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/cher08.gif)
 

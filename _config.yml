@@ -1,14 +1,32 @@
-# Site settings
-title: Mônica Bulgari
-motto: Journalist, Linguist, Social Scientist, Feminist
-email: monica@monicabulgari.com
-description: Mônica Bulgari is a Journalist, Feminist, Social Scientist and Linguistics researcher
-  Social Scientist. Currently works as Social Media Analyst at São Paulo
-  city hall.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://monicabulrai.github.io" # the base hostname & protocol for your site
-twitter_username: monicabulgari
-github_username:  monicabulgari
-
-# Build settings
+# top level stuff you probably don't need to touch
+highlighter: rouge
 markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://monicabulgari.com/
+baseurl: /
+title: Mônica Bulgari
+author: Mônica Bulgari
+description: Mônica Bulgari | Personal blog and resume
+avatar: profile.jpg
+email: monicabulgari@email.com
+#github: biomadeira/sustain # username
+twitter: monicabulgari
+linkedin: monicabulgari
+medium: monicabulgari
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus: monicabulgari
+#google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]

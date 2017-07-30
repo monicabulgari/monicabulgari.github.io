@@ -1,22 +1,18 @@
 ---
-layout: default
+layout: home
 ---
 
-<div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <br>
-        <h3>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h3>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <hr id="line">
-		<div class="content">
-		    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</a>
-        </div>
-		<br>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+	  </div>
+	  <h2>{{ site.author }}</h2>
+	  <h3>Jornalista e Cientista Social.</h3>
+	  <h3>Redatora e Gerente de Projetos de conteúdos em plataformas digitais.</h3>
+    <h3>Conheça alguns <a href="{{ site.baseurl }}projects.html"> projetos</a> em que trabalhei.</h3>
+	  <h3>Para ver o meu background acadêmico, acesse o meu <a href="{{ site.baseurl }}resume.html">currículo</a>.</h3>
+	  <h3>Me encontre em <a href="http://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a> ou mande um alô por <a href="mailto:{{ site.email }}">email</a>.</h3>
+	  {% include social.html %}
+	</div>
+</section>

@@ -1,97 +1,14 @@
-<header class="header">
-	<div class="header-container">
-    <div class="profile-picture">
-      <img src="/images/eu.jpg" />
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-home"></i></a>
     </div>
-		<div class="nav">
-			{% if page.path == "index.html" %}
-			<span class="title">
-				<li>
-					<a href="/index.html">blog</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/index.html">blog</a>
-				</li>
-			{% endif %}
-			{% if page.path == "category.html" %}
-			<span class="title">
-				<li>
-					<a href="/category.html">categories</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/category.html">categories</a>
-				</li>
-			{% endif %}
-			{% if page.path == "about.html" %}
-			<span class="title">
-				<li>
-					<a href="/about.html">About</a>
-				</li>
-			</span>
-			{% else %}
-				<li>
-					<a href="/about.html">About</a>
-				</li>
-			{% endif %}
-      <span class="title">
-				<li>
-					<a href="/talks.html">Talks</a>
-				</li>
-			</span>
-			  <span class="title">
-				<li>
-					<a href="/resume.html">Resume</a>
-				</li>
-			</span>
-		</div>
-		<div class="description"> {{ site.motto }} </div>
-		<ul class="social-links">
-			<li>
-				<a href="/feed.xml" title="RSS">
-					<i class="fa fa-rss-square" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				<a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
-					<i class="fa fa-twitter-square" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				<a href="https://www.facebook.com/monicadbulgari" title="Facebook">
-					<i class="fa fa-facebook-square" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				
-				<a href="https://br.linkedin.com/in/monicabulgari" title="Linkedin">
-					<i class="fa fa-linkedin-square" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				<a href="https://github.com/monicabulgari" title="Github">
-					<i class="fa fa-github-square" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				<a href="https://instagram.com/monicabulgari" title="Instagram">
-					<i class="fa fa-instagram" aria-hidden="true"></i>
-				</a>
-			</li>
-				<li>
-				<a href="https://medium.com/@monicabulgari" title="Medium">
-					<i class="fa fa-medium" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-				<a href="http://lattes.cnpq.br/4730643910942736" title="Currículo Lattes">
-					<i class="fa fa-university" aria-hidden="true"></i>
-				</a>
-			</li>
-			<li>
-		</ul>
-	</div>
-</header>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="{{ site.baseurl }}portfolio.html">PORTFÓLIO</a></li>
+        <li><a href="{{ site.baseurl }}projects.html">PROJETOS</a></li>
+        <li><a href="{{ site.baseurl }}resume.html">CURRÍCULO</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
