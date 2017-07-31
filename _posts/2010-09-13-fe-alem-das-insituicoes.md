@@ -5,7 +5,7 @@ date: 2010-09-13 18:00:00
 categories: reportagem 
 ---
 
-![santos00](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/santos00.jpg)
+![santos00](static/img/santos00.jpg)
 
 A devoção aos chamados santos populares, ou santos urbanos, tem sido um fenômeno cada vez mais comum na atmosfera católica 
 brasileira. Só na capital paulista existem mais de dez túmulos que são visitados frequentemente por devotos que acreditam na 

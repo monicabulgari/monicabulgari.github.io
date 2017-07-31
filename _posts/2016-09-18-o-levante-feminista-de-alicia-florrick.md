@@ -5,7 +5,7 @@ date: 2016-09-18
 categories: series feminismo
 ---
 
-![Alicia_03_home](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_home.jpeg)
+![Alicia_03_home](static/img/texto_03_home.jpeg)
 
 Nos últimos anos, temos acompanhado um boom na produção e no compartilhamento de conteúdos sobre o feminismo e outras teorias 
 libertárias sobre a questão de gênero. Apesar dessa luta datar de séculos atrás, foi com o advento da internet e suas ferramentas,
@@ -20,7 +20,7 @@ Conteúdos artísticos que tenham como protagonistas mulheres fortes podem não 
 No caso do feminismo, essa reação é potencializada pela misoginia. Sabemos que existe um ódio direcionado às mulheres. 
 Sabemos que quando enfrentamos qualquer coisa que ameace a masculinidade de alguns homens, estamos nos expondo a uma agressão.
 
-![Alicia_03_01](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_01.jpg)
+![Alicia_03_01](static/img/texto_03_01.jpg)
 
 A representatividade de Alicia Florrick diante desse cenário é de uma importância simbólica fundamental. 
 Não somente no audiovisual, mas no âmbito jurídico-político, a mulher sempre foi ilustrada através de estereótipos ou 
@@ -30,7 +30,7 @@ Alicia soube se utilizar do julgamento alheio para se fortalecer. Ela se valeu d
 utilizada por muitas ninjas, gueixas e guerreiras mulheres : se valer do preconceito alheio para surpreender seu adversário. 
 Ninguém espera que uma mulher tão delicada e frágil irá aplicar um golpe ou tomar uma postura agressiva, certo?
 
-![Alicia_03_02](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_02.jpg)
+![Alicia_03_02](static/img/texto_03_02.jpg)
 
 Alicia enfrentou a cultura machista em suas instituições mais fortes: o estado, a política e a lei. Confundiu a mídia, 
 interpretando um papel que lhe assegurava algumas vantagens em certos âmbitos do poder. Embora tenha reforçado certos valores
@@ -40,7 +40,7 @@ mas escrúpulo não é mesmo impedimento para Alicia, que perdeu tantas batalhas
 prejudicaram. Sem medo e de cabeça erguida, Alicia observou sua influência crescer à medida em que consolidava sua verdadeira 
 identidade. A personagem cresce durante a série, tornando-se mais inteligente, popular e elegível que o seu marido.
 
-![Alicia_03_03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_03.jpg)
+![Alicia_03_03](static/img/texto_03_03.jpg)
 
 A saga de Alicia é a ilustração da máxima de Simone de Beauvoir “Ninguém nasce mulher: torna-se mulher. Nenhum destino biológico,
 psíquico, econômico define a forma que a fêmea humana assume no seio da sociedade; é o conjunto da civilização que elabora 
@@ -51,6 +51,6 @@ seu condomínio de luxo. Alicia foi, pouco a pouco, se deparando com a sua auten
 posturas que desafiam o patriarcado; que deveria destruir as expectativas de familiares e colegas e seguir seus 
 próprios desejos e anseios para encontrar a sua mulher.
 
-![Alicia_03_04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/texto_03_04.jpg)
+![Alicia_03_04](static/img/texto_03_04.jpg)
 
 _Texto originalmente publicado no portal [Séries por elas](https://seriesporelas.com.br/o-levante-feminista-de-alicia-florrick/)_. 

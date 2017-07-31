@@ -4,7 +4,7 @@ title: "Laerte e Muriel: Linguagem e Sexualidade"
 date: 2015-08-30 18:00:00
 categories: sexualidade quadrinhos
 ---
-![murie417](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/muriel417.jpg)
+![murie417](static/img/muriel417.jpg)
 
 _Fui convidada pela produção do SSEX BBOX para falar um pouquinho sobre a pesquisa que desenvolvo no Instituto de Estudos da Linguagem (IEL) da UNICAMP, sobre as tirinhas de Laerte. Selecionei duas tirinhas para dar uma pequena amostra de como realizo a análise._
 
@@ -22,11 +22,11 @@ Foi na primeira reunião da organização para a realização da *1ª Conferênc
 
 Essa tirinha é uma das minhas favoritas. O funcionário do aeroporto impede o acesso de Muriel, alegando a existência de algum problema em relação ao seu presente estado. A imagem traz elementos que a caracterizam como um homem travestido de mulher.  Muriel rebate a pergunta problematizando o pronome de tratamento utilizado pelo funcionário. O que acontece em seguida é uma ruptura da formação do sentido imbricado pelas formações discursivas emitidas pelo funcionário do aeroporto, que conclui que os pronomes de tratamento é que caracterizam o problema. A última pergunta de Muriel causa um efeito de humor justamente porque rompe com o desenvolvimento do sentido proposto no primeiro quadrinho.
 
-![muriel702](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/muriel702.jpg)
+![muriel702](static/img/muriel702.jpg)
 
 A ruptura com a dicotomia entre o masculino e o feminino é uma das principais diretrizes da formulação de sentido das tirinhas de Muriel. Nesta tirinha, temos a figura de um homem, que é caracterizada pela ausência de seios, pela toquinha sob a qual é colocada a peruca, além do espartilho, dos cílios exaltados e da maquiagem. Ele está se preparando para se caracterizar como uma mulher. O processo de montagem sugere o desejo da personagem, de “ser uma mulher de verdade”. Aqui, o corpo é interpretado e se interpreta na busca de uma correspondência entre o físico e a identidade social. Ao ser questionado sobre a impossibilidade de se tornar uma mulher de verdade, a personagem se confunde, o sentido é rompido. O corpo, nas tirinhas de Muriel, é o suporte material pelo qual o sentido é formulado e explorado.
 
-![muriel643](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/muriel643.jpg)
+![muriel643](static/img/muriel643.jpg)
 
 Nossas identidades e subjetividades são formatadas em muito pela linguagem, por isso é fundamental o desenvolvimento da consciência  do funcionamento desse mecanismo. Além disso, quero chamar atenção sobre como os meios de comunicação e principalmente os sistemas educacionais abordam esse assunto. Não somente com associações rasas como “_azul é cor de menino e rosa cor de menina_”, mas por meio de construções e utilização de um léxico que em si carrega uma história de opressão e ingenuidade diante das inifinitas possibilidades de identidade. Como cientista, devo prezar por uma metodologia que garanta o estatuto científico de meu trabalho, produzir conhecimento e ajudar em nossa compreensão da realidade. Porém, como militante da questão, reconheço e reitero a relevância e genialidade de Laerte para a desconstrução de percepções que não correspondem à realidade de uma sociedade que cada vez mais precisa aceitar a liberdade de ser justamente aquilo que somos, ainda que (pelo menos por enquanto) essa noção só exista na esfera do “indizível”.
 

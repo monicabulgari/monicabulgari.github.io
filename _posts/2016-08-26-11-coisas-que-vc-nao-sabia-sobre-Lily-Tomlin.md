@@ -4,17 +4,17 @@ title: "11 coisas que você não sabia sobre Lily Tomlin, a Frankie de “Grace 
 date: 2016-08-26 18:00:00
 categories: feminismo séries buzzfeed
 ---
-![lily](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily.jpg)
+![lily](static/img/lily.jpg)
 
 _Essa mulher é surpreendente_
 
 ## 1. Ela já ganhou um Grammy por um [álbum cômico](https://www.youtube.com/watch?v=A4N2hjJy2oI&list=PLP_l6S5yJapI5MCAxxWLKiMA99ny6Cw9f) que gravou em 1972
-![capa álbum](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/album_recording.jpg)
+![capa álbum](static/img/album_recording.jpg)
 
 *Bart Solenthaler / Via Flickr: bartsol*
 
 ## 2. Lily é casada com a diretora <a href="https://en.wikipedia.org/wiki/Jane_Wagner">Jane Wagner </a> há 44 anos!
-![janewagner](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lily_jane.jpg)
+![janewagner](static/img/lily_jane.jpg)
 <p></p>
 *Lily Tomlin / Via abc7.com*
 <p></p>
@@ -22,20 +22,20 @@ Elas estão juntas desde 1971, mas só conseguiram oficializar a união em 2013
 <p></p>
 
 ## 3. Elas até ganharam uma <a href="https://www.amazon.com/dp/1137358238/?tag=buzz0f-20"> biografia </a> por sua influência na cultura estadunidense e suas militâncias LGBT
-![biografia](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/livro.jpg)
+![biografia](static/img/livro.jpg)
 <p></p>
 *Via gender-focus.com*
 <p></p>
 
 ## 4. Além do Grammy, ela já ganhou dois Tony Awards e seis Emmys !
-![premiação](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/emmy.jpg)
+![premiação](static/img/emmy.jpg)
 <p></p>
 *Mark Davis / Getty Images / Via eonline.com*
 <p></p>
 <p></p>
 
 ## 5. Ela foi a primeira a mulher a fazer um número solo na Broadway.
-![time](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/timemagazine.jpg)
+![time](static/img/timemagazine.jpg)
 <p></p>
 *Via milwaukeepride.org*
 <p></p>
@@ -44,7 +44,7 @@ Nessa <a href="https://www.theguardian.com/culture/2015/nov/22/lily-tomlin-grand
 <p></p>
 
 ## 6. Gravou um <a href="https://www.youtube.com/watch?v=PmiD-ZwTb5s"> álbum </a> dando uma boa cutucada na indústria de Hollywood
-![modernscream](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/modern_scream.jpg)
+![modernscream](static/img/modern_scream.jpg)
 <p></p>
 *Lily Tomlin / Via sbillinghurst.wordpress.com*
 <p></p>
@@ -58,7 +58,7 @@ Numa das faixas do álbum, uma de suas personagens pergunta:
 <p></p>
 
 ## 7. Ela se <a href="http://www.lilytomlin.com/wordpress2/lilytomlin/lily-tomlins-characters/"> transforma </a> em muitos personagens
-![personagens](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/personagens.jpg)
+![personagens](static/img/personagens.jpg)
 <p></p>
 *Lily Tomlin / Via lilytomlin.com*
 <p></p>
@@ -73,14 +73,14 @@ alt="cherandlily" width="240" height="180" border="10" /></a>
 <p></p>
 
 ## 9. Lily é feminista e ativa na militância LGBT. Aqui, ela foi fotografada pela famosa Annie Leibovitz
-![annie](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/annie.jpg)
+![annie](static/img/annie.jpg)
 <p></p>
 Annie Leibovitz / Via profeminist.tumblr.com
 <p></p>
 <p></p>
 
 ## 10. Já foi par <a href="http://www.imdb.com/title/tt0077942/" > romântico </a> de John Travolta, em 1978
-![travolta](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/john_travolta.jpg)
+![travolta](static/img/john_travolta.jpg)
 <p></p>
 Eles viveram um (raro) romance entre uma mulher mais velha e um homem mais novo,no filme “Vivendo cada Momento”. O filme, que foi dirigido pela própria esposa de Lily, Jane Wagner, foi um fracasso de bilheteria.
 <p></p>
@@ -93,7 +93,7 @@ alt="cherandlily" width="240" height="180" border="10" /></a>
 <p></p>
 e o personagem de Travolta se chama “Strip”. Hãm…
 <p></p>
-![lillygif](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/lilnariz.gif)
+![lillygif](static/img/lilnariz.gif)
 <p></p>
 Lily, você é incrível!
 <p></p>

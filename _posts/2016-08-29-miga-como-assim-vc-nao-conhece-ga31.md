@@ -5,50 +5,50 @@ date: 2016-08-29
 categories: música feminismo buzzfeed
 ---
 
-![Ga3100](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_00.jpg)
+![Ga3100](static/img/ga31_00.jpg)
 
 # Você já conhece o remix “Eu gosto de mulheres”,né?
 
-![Ga3101](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_01.gif)
+![Ga3101](static/img/ga31_01.gif)
 
 …quando a Paloma Duarte saiu do armário em _A Partilha_ e virou [hit](https://www.youtube.com/watch?v=WGT2Ky9rZN4) sapatômico.
 
 # A autora, que se denomina “GA31” foi além nesse lance de edição e remix e criou um álbum inteiro cheio de preciosidades
 
-![Ga3102](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_02.gif)
+![Ga3102](static/img/ga31_02.gif)
 
 # … com letras pra fancha nenhuma botá defeito!
 
-![Ga3103](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_03.gif)
+![Ga3103](static/img/ga31_03.gif)
 
 _Trecho de [“Lésbica Futurista“](https://www.youtube.com/watch?v=-Wns7LMUa5I)_
 
 # Também tem frases categóricas e imagens bem loucas
 
-![Ga3104](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_04.gif)
+![Ga3104](static/img/ga31_04.gif)
 
 essa raposinha muito louca de [Andrógena](https://www.youtube.com/watch?v=dG2r4iS8EwU)
 
 # E muito carão nos vídeos fashions usados nos clipes. Esse é de [Videogames Eróticos](https://www.youtube.com/watch?v=g-XPuSPoGHc&index=1&list=PLspNnOkdZb9KMB4bUdxglYdbSUq8m7u22)
 
-![Ga3105](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_05.gif)
+![Ga3105](static/img/ga31_05.gif)
 
 # Tem também uma batida s-e-n-s-a-c-i-o-n-a-l
 
-![Ga3106](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_06.gif)
+![Ga3106](static/img/ga31_06.gif)
 
 Trecho de [Eu sou Superior a você](https://www.youtube.com/watch?v=h--sE18mm5k)
 
 # SÉRIO GENTE VCS NÃO TÃO ENTENDENDO
 
-![Ga3107](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_07.gif)
+![Ga3107](static/img/ga31_07.gif)
 
 como por exemplo essa destruição no hino fancho [A Força da Mulher Sapatona](https://www.youtube.com/watch?v=PdDUBsodMN4)
 
 # Em uma [entrevista](https://soubetina.com.br/entrevista-com-ga31-a-forca-da-mulher-sapatona/), 
 ela explica que sua produção é pautada pela representatividade e lutas políticas:
 
-![Ga3108](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_08.gif)
+![Ga3108](static/img/ga31_08.gif)
 
 “A voz de GA31 é um megafone que capta, sintetiza e grita ao mundo todas as reivindicações sobre direitos humanos e 
 conflitos urbanos atuais. É como um púlpito onde todas as vozes são exaltadas. Quero ser um canal representativo para 
@@ -64,7 +64,7 @@ Pra mim essa palavra não é ousada ou preconceituosa, e sim corajosa e natural.
 # No dia da [Visibilidade Lésbica](https://pt.wikipedia.org/wiki/Dia_Nacional_da_Visibilidade_L%C3%A9sbica), 
 é preciso espalhar palavras como a de GA31
 
-![Ga3109](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/ga31_09.gif)
+![Ga3109](static/img/ga31_09.gif)
 
 As músicas já rolam em algumas baladas
 

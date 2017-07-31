@@ -4,33 +4,33 @@ title: "[Palestra] Social Media Week São Paulo 2016"
 date: 2016-10-13 11:23:32
 categories: feminismo palestra socialmedia
 ---
-![SMW10](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw10.jpg)
+![SMW10](static/img/smw10.jpg)
 
 Minha palestra “Como lidar com questões de Gênero e Feminismo nas redes sociais” foi selecionada para ser uma das 137 
 atividades do Social Media Week São Paulo, que aconteceu de 12 a 14 de setembro de 2016. O evento é realizado em diversas 
 cidades do mundo,e é organizado por consultorias e influenciadores envolvidos no mercado da tecnologia e da informação. 
 Neste ano, a organização pautou como meta a igualdade de gênero, e o evento teve 55% de palestrantes mulheres.
 
-![SMW04](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw04.jpg)
+![SMW04](static/img/smw04.jpg)
 
 Minha proposta foi a de reunir cases em que a postura das marcas ou influenciadores em relação à questão de gênero 
 reproduzisse preconceitos e estereótipos, que hoje já não são mais tolerados. Auditório lotado  e participantes muito 
 interessados fizeram a diferença na palestra; É bom saber que as pessoas entendem essa demanda, e procuram conhecimento 
 sobre isso.
 
-![SMW06](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw06.jpg)
+![SMW06](static/img/smw06.jpg)
 
 Porém, a maioria das pessoas que estava na plateia já estava próxima, de alguma maneira,  das discussões sobre feminismo e 
 igualdade de gênero, o que fez com que a interação e o debate fossem extremamente frutíferos. Mas confesso que gostaria de 
 ver mais homens e outras pessoas que não estão muito por dentro do assunto participando também.
 
-![SMW01](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw01.jpg)
+![SMW01](static/img/smw01.jpg)
 
 Uma das minhas maiores preocupações ao preparar a palestra foi justamente a pluralidade do público, que podia abarcar pessoas 
 com muita ou sem nenhuma noção de feminismo e igualdade de gênero. Por isso, me atentei aos conceitos básicos e objetivei um 
 rigor científico em minhas afirmações.
 
-![SMW03](https://raw.githubusercontent.com/monicabulgari/monicabulgari.github.io/master/images/smw03.jpg)
+![SMW03](static/img/smw03.jpg)
 
 
 O feedback foi extremamente positivo. O blog [Insightee](http://insightee.com.br/blog/social-media-week-2016-os-melhores-conteudos-de-palestras-disponiveis-online/) selecionou meu material como um dos melhores do evento. Destacou que
